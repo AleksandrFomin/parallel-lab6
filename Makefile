@@ -1,2 +1,2 @@
 target:
-	gcc main.c -o example -lOpenCL
+	gcc lab6_time.c -o lab6_time -lOpenCL -lm
